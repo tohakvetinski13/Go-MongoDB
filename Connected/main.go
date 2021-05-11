@@ -24,6 +24,7 @@ func main() {
 		log.Fatal(err)
 	}
 	defer cancel()
+	defer client.Disconnect(ctx)
 	err = client.Ping(ctx, readpref.Primary())
 	if err != nil {
 		log.Fatal(err)
