@@ -1,0 +1,1 @@
+# Сreating the document in MongoDB using Golang
