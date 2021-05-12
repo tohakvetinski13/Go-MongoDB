@@ -1,1 +1,1 @@
-# Reading the document in MongoDB using Golang
+# Reading the document from MongoDB using Golang
