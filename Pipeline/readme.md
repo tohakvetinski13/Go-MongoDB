@@ -1,0 +1,1 @@
+# Quick Start: Golang & MongoDB - Data Aggregation Pipeline
